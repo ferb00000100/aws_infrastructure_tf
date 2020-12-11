@@ -30,6 +30,8 @@ override.tf.json
 
 ./templates
 ./templates/*
+templates/instance_config.sh.tpl
+
 
 .idea
 .idea/*
